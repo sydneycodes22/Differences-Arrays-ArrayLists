@@ -1,4 +1,4 @@
-Arrays and Array Lists have similarities but also have differences. Below I will go into the specifics of those differences. Each portion mentioned is also referenced in my code attached below and found at [Github link]
+Arrays and Array Lists have similarities but also have differences. Below I will go into the specifics of those differences. Each portion mentioned is also referenced in my code attached below and found at https://github.com/sydneycodes22/Differences-Arrays-ArrayLists
 Array vs ArrayList
     -	Fixed Size vs Dynamic Sizing
         o	If an array is declared as size 10 then it will always be size 10. No more no less.

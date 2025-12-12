@@ -6,7 +6,9 @@ public class App {
         runVisualizerForArrayVSArrayList();
     }
     public static void runVisualizerForArrayVSArrayList() {
-        System.out.println("Array vs ArrayList Visualization!\n");
+        System.out.println("Array vs ArrayList Visualization!");
+        System.out.println("For more information on differences, visit: https://github.com/sydneycodes22/Differences-Arrays-ArrayLists\n");
+        
         System.out.println("Creating an ArrayList and an Array with initial size of 10.");
 
         List<String> arrayList = new ArrayList<>();
